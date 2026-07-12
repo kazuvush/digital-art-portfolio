@@ -1,7 +1,7 @@
 ##  Clash Royale | Rune Giant Fan Art
 
 ### ✦ Final Rendering
-<img src="Clash Royale Rune Giant's power Fan Art.jpg" width="100%" alt="Rune Giant Final Artwork">
+<img src="Clash Royale  Rune Giant's power FINAL.jpg" width="100%" alt="Rune Giant Final Artwork">
 
 <br>
 
@@ -11,7 +11,7 @@
 <br>
 
 ### ✦ Close-up Details
-<img src="Splash-Art-Details-1.jpg" width="49%" alt="Details 1"> <img src="Splash-Art-Details-2.jpg" width="49%" alt="Details 2">
+<img src="Splash Art Details#1.jpg" width="49%" alt="Details 1"> <img src="Splash Art Details#2.jpg" width="49%" alt="Details 2">
 
 <br>
 
