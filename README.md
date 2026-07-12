@@ -12,7 +12,7 @@ Welcome to my portfolio! Here you can find my recent splash art concepts and ill
 <br>
 
 ### ✦ Process & Sketches
-<img src="Black-White-Sketches.webp" width="49%" alt="Initial Sketch"> <img src="Splash Art Details#1.jpg" width="49%" alt="Splash Art Details#2.jpg">
+<img src="Black-White-Sketches.webp" width="49%" alt="Initial Sketch"> <img src="Splash Art Details#1.jpg" width="49%" alt="Splash Art Details#1.jpg">
 
 <br>
 
