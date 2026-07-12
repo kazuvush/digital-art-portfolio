@@ -1,18 +1,17 @@
-# Digital Illustration & Concept Art Portfolio
-
-Welcome to my portfolio! Here you can find my recent splash art concepts and illustration process stages.
-
----
-
-## 🎨 Clash Royale | Rune Giant Fan Art
+##  Clash Royale | Rune Giant Fan Art
 
 ### ✦ Final Rendering
-<img src="Clash Royale  Rune Giant's power FINAL.jpg" width="100%" alt="Rune Giant Final Artwork">
+<img src="Clash Royale Rune Giant's power Fan Art.jpg" width="100%" alt="Rune Giant Final Artwork">
 
 <br>
 
 ### ✦ Process & Sketches
-<img src="Black-White-Sketches.webp" width="49%" alt="Initial Sketch"> <img src="Splash Art Details#1.jpg" width="49%" alt="Splash Art Details#1.jpg">
+<img src="Black-White-Sketches.webp" width="100%" alt="Initial Sketch">
+
+<br>
+
+### ✦ Close-up Details
+<img src="Splash-Art-Details-1.jpg" width="49%" alt="Details 1"> <img src="Splash-Art-Details-2.jpg" width="49%" alt="Details 2">
 
 <br>
 
