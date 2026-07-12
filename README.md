@@ -7,12 +7,12 @@ Welcome to my portfolio! Here you can find my recent splash art concepts and ill
 ## 🎨 Clash Royale | Rune Giant Fan Art
 
 ### ✦ Final Rendering
-<img src="rune-giant-final.jpg" width="100%" alt="Rune Giant Final Artwork">
+<img src="Clash Royale  Rune Giant's power FINAL.jpg" width="100%" alt="Rune Giant Final Artwork">
 
 <br>
 
 ### ✦ Process & Sketches
-<img src="rune-giant-sketch.webp" width="49%" alt="Initial Sketch"> <img src="clash-details-1.jpg" width="49%" alt="Details 1">
+<img src="Black-White-Sketches.webp" width="49%" alt="Initial Sketch"> <img src="clash-details-1.jpg" width="49%" alt="Details 1">
 
 <br>
 
