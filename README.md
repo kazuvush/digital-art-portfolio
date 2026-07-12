@@ -1,2 +1,2 @@
 # digital-art-portfolio
-Digital Illustration, Splash Art and Concept Art Portfolio
+Digital Illustration, Splash Art and Concept Art 
